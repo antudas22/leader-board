@@ -142,6 +142,9 @@ hr{
     .blog{
         align-items: center;
     }
+    .course{
+        margin-top: 20px;
+    }
 }
 /* tablet devices */
 @media only screen and (min-width: 688px) and (max-width: 992px) {
@@ -157,5 +160,8 @@ hr{
     }
     .courses{
         justify-items: center;
+    }
+    .course{
+        margin-top: 20px;
     }
 }
